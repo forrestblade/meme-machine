@@ -21417,7 +21417,7 @@ var app = (function () {
     			attr_dev(img, "alt", "peppe");
     			add_location(img, file$2, 58, 4, 1580);
     			add_location(h1, file$2, 59, 4, 1626);
-    			attr_dev(div0, "class", div0_class_value = "" + null_to_empty((ctx.hidden ? 'header hidden': 'header')) + " svelte-1azpwxi");
+    			attr_dev(div0, "class", div0_class_value = "" + null_to_empty((ctx.hidden ? 'header hidden': 'header')) + " svelte-16x4a6g");
     			add_location(div0, file$2, 57, 2, 1525);
     			attr_dev(a, "href", "https://giphy.com/");
     			attr_dev(a, "target", "_blank");
@@ -21428,7 +21428,7 @@ var app = (function () {
     			attr_dev(div1, "class", "cf pa4");
     			add_location(div1, file$2, 66, 4, 1908);
     			attr_dev(main, "id", "app");
-    			attr_dev(main, "class", "svelte-1azpwxi");
+    			attr_dev(main, "class", "svelte-16x4a6g");
     			add_location(main, file$2, 56, 0, 1507);
     		},
 
@@ -21456,7 +21456,7 @@ var app = (function () {
     		},
 
     		p: function update(changed, ctx) {
-    			if ((!current || changed.hidden) && div0_class_value !== (div0_class_value = "" + null_to_empty((ctx.hidden ? 'header hidden': 'header')) + " svelte-1azpwxi")) {
+    			if ((!current || changed.hidden) && div0_class_value !== (div0_class_value = "" + null_to_empty((ctx.hidden ? 'header hidden': 'header')) + " svelte-16x4a6g")) {
     				attr_dev(div0, "class", div0_class_value);
     			}
 
