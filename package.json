@@ -20,7 +20,7 @@
     "random-quote": "0.0.1",
     "rollup-plugin-livereload": "^1.0.4",
     "rollup-plugin-postcss": "2.0.3",
-    "svelte": "3.12.1"
+    "svelte": "3.49.0"
   },
   "scripts": {
     "build": "rollup -c",
